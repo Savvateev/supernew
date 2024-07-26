@@ -1,7 +1,7 @@
 # NeuroStartUp readme file
 
 ## Watch news ?
-1. NeuroStartUp is very good
+ NeuroStartUp is very good
    
    # Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
